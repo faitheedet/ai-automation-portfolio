@@ -34,7 +34,8 @@ Areas of Interest
 
 Connect
 
-- LinkedIn: Add your LinkedIn profile URL here.
+- X: https://x.com/FaithEEdet
+- LinkedIn: https://www.linkedin.com/in/faith-e-edet-237244194?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Portfolio Website: https://faitheedet.github.io
 - GitHub: https://github.com/faitheedet
 
