@@ -32,13 +32,15 @@ Areas of Interest
 - Data-driven process improvement
 - Practical applications of generative AI
 
-Connect
 
-- X: https://x.com/FaithEEdet
-- LinkedIn: https://www.linkedin.com/in/faith-e-edet-237244194?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Portfolio Website: https://faitheedet.github.io
-- GitHub: https://github.com/faitheedet
+## Connect with me
 
----
+- LinkedIn: [Faith E. Edet](https://www.linkedin.com/in/faith-e-edet-237244194/)
+- X: [@FaithEEdet](https://x.com/FaithEEdet)
+- Portfolio: [Visit my website](https://faitheedet.github.io)
+- GitHub: [faitheedet](https://github.com/faitheedet)
+
+
+
 
 Learning, experimenting and building practical solutions with AI.
